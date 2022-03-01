@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "37fe3aa5e231eed1",
+        "id": "c87e1dc1d0c1c4e7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Environment - Getting started.md",
+            "file": "README.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Environment - Getting started.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37fe3aa5e231eed1",
+  "active": "c87e1dc1d0c1c4e7",
   "lastOpenFiles": [
+    "README.md",
+    "React/React - Intro.md",
     "React/Environment - Getting started.md",
+    "React/React - Extensions.md",
     "React/Rendering.md",
-    "React/JSX - What is it.md",
-    "README.md"
+    "Javascript/Javascript - Intro.md",
+    "Javascript/JSX - What is it.md",
+    "NPM/NPM - Intro.md",
+    "NPM/Syntax.md",
+    "NPM/What is NPM.md"
   ]
 }
