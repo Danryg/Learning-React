@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/React - Components.md",
-            "mode": "preview",
+            "file": "README.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React - Components.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,13 @@
   },
   "active": "c87e1dc1d0c1c4e7",
   "lastOpenFiles": [
-    "React/React - Components.md",
-    "React/React - Folder structure.md",
-    "React/React - Rendering.md",
-    "React/React - Environment Getting started.md",
-    "React/React - Extensions.md",
-    "React/React - Intro.md",
     "README.md",
+    "React/React - Folder structure.md",
+    "React/React - Intro.md",
+    "React/React - Rendering.md",
+    "React/React - Extensions.md",
+    "React/React - Environment Getting started.md",
+    "React/React - Components.md",
     "Javascript/Javascript - Intro.md",
     "Javascript/JSX - What is it.md",
     "NPM/NPM - Intro.md"
