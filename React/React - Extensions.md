@@ -1,9 +1,11 @@
 # Extensions
 
 ## Bootstrap
-Makes css have a more modern look and feel
+Makes CSS have a more modern look and feel
 
 	npm i bootstrap
+Bootstrap includes a set of predefined styling classes that can be given to elements
+More info at https://react-bootstrap.github.io/components/alerts/
 
 ## Simple react snippet
 Author = "Burke Holland"
