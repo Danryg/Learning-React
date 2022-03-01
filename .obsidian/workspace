@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "122105979b44888d",
+    "type": "split",
+    "children": [
+      {
+        "id": "37fe3aa5e231eed1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "React/Environment - Getting started.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d36ff1df8e3fe0aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc3c1f2e55634d5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "413ef8a71608a504",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1a706f92abc72ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f872e8e6c572d57",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce4ae75209754b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28264c937b72cbba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React/Environment - Getting started.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "37fe3aa5e231eed1",
+  "lastOpenFiles": [
+    "React/Environment - Getting started.md",
+    "React/Rendering.md",
+    "React/JSX - What is it.md",
+    "README.md"
+  ]
+}
