@@ -1,5 +1,5 @@
 # JSX 
-This is a way of combining javascript with mark up, you can put mark up code into a javasctipt variable.
+This is a way of combining JavaScript with mark up, you can put mark up code into a JS variable.
 Example:
 
 	const element = <h1> Hello World </h1>
