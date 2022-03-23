@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React native/Native - Publishing.md",
+            "file": "React native/Native - Components.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "setS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 374
   },
   "right": {
     "id": "7f872e8e6c572d57",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React native/Native - Publishing.md",
+                "file": "React native/Native - Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "b2ca46dd355794ba",
   "lastOpenFiles": [
-    "React native/Native - Publishing.md",
-    "React native/Native - Debugging.md",
-    "React native/Native - Starting the emulator.md",
-    "React native/Native - Setting up the Environment.md",
-    "React native/Pictures/Android studio AVD Manager.png",
-    "Untitled.md",
-    "React native/Pictures/Android Studio.png",
-    "Javascript/JSX - Dynamic Rendering.md",
-    "React/React - Folder structure.md",
-    "React/React - Events.md"
+    "React native/Native - Components.md",
+    "React native/Native - Alert.md",
+    "React/React - Updating a state variable.md",
+    "React/React - Passing data into components.md",
+    "React/Example Components/Counter - basic.md",
+    "React/React - Rendering Lists.md",
+    "React/React - principles.md",
+    "React/React - Stateless Fucntional Component.md",
+    "React/React - Rendering.md",
+    "Javascript/JSX - Dynamic Rendering.md"
   ]
 }

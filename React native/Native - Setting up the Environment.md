@@ -14,7 +14,7 @@ Install expo-cli trough the cmd or terminal window, write
 Install the Expo Client app on your phone either via app store or google play store
 
 ### 4.Install an IDE
-While creating these notes i am going to use Visual Studio Code refereed to ass VS code
+While creating these notes i am going to use Visual Studio Code refereed to as VS code
 
 
 

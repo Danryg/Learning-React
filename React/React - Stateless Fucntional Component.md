@@ -16,7 +16,7 @@ This is a component that has no state and is purely functional, instead of using
 		}
 	}
 
-	export default Navbar
+	export default myComponent
 
 
 <b>Function definition</b>
