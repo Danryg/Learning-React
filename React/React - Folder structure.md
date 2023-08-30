@@ -10,4 +10,6 @@ contains the code that is compiled into the public folder
 <b> src -> components</b>
 Holds all the jsx components
 
+Please  update
+
 
